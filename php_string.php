@@ -4,8 +4,8 @@
  * User: jgirl
  * Date: 16-2-14
  * Time: 下午12:26
- * Description: PHP 数据类型
- * Url: http://www.w3school.com.cn/php/php_constants.asp
+ * Description: PHP 字符串函数
+ * Url: http://www.w3school.com.cn/php/php_string.asp
  */
 
 /**
